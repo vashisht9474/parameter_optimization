@@ -25,7 +25,8 @@ From the above graph, we can conclude that the model is well trained and paramet
 
 The graph is made for the sample which has best accuracy. Sample 9 has the best accuracy of 0.97 having kernel = Poly, Nu = 1.27 and Epsilon = 6.87.
 
-###submitted by- 
+### submitted by- 
+
 Virender Vashisht
 3coe-27
 102003671
